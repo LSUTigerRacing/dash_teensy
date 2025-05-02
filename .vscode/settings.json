@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "display-driver.h": "c",
+        "stdint.h": "c",
+        "sensor-logging.h": "c",
+        "can-bus.h": "c"
+    }
+}
