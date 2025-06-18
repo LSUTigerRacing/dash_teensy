@@ -1,4 +1,7 @@
-# dash_brain
-This repository will contain the logic of the dash that will be responsible for datalogging, sensor reading, CAN bus, and Wireless Connectivity.
+# dash_teensy
+This repository will contain the logic of the Teensy.
 
-Each folder represents a feature implementation + a folder for hardware schematics
+Responsibilities of this chip include:
+- CAN communications
+- Warning Systems
+- Passing translated CAN communication to the RasPi
