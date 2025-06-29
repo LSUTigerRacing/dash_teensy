@@ -10,6 +10,7 @@
             "includePath": [
                 "/Users/rickyliang/Documents/GitHub/dash_brain/include",
                 "/Users/rickyliang/Documents/GitHub/dash_brain/src",
+                "/Users/rickyliang/Documents/GitHub/dash_brain/.pio/libdeps/teensy40/FlexCAN_T4",
                 "/Users/rickyliang/.platformio/packages/framework-arduinoteensy/cores/teensy4",
                 "/Users/rickyliang/.platformio/packages/framework-arduinoteensy/libraries/ADC",
                 "/Users/rickyliang/.platformio/packages/framework-arduinoteensy/libraries/AccelStepper/src",
@@ -117,6 +118,7 @@
                 "path": [
                     "/Users/rickyliang/Documents/GitHub/dash_brain/include",
                     "/Users/rickyliang/Documents/GitHub/dash_brain/src",
+                    "/Users/rickyliang/Documents/GitHub/dash_brain/.pio/libdeps/teensy40/FlexCAN_T4",
                     "/Users/rickyliang/.platformio/packages/framework-arduinoteensy/cores/teensy4",
                     "/Users/rickyliang/.platformio/packages/framework-arduinoteensy/libraries/ADC",
                     "/Users/rickyliang/.platformio/packages/framework-arduinoteensy/libraries/AccelStepper/src",
